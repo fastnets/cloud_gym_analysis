@@ -8,11 +8,11 @@
 
 ```bash
 Gym_churn_model/
-??? Dockerfile
-??? requirements.txt
-??? main.py
-??? gym_churn_analysis.ipunb
-??? churn_model.pkl
+¦-- Dockerfile
+¦-- requirements.txt
+¦-- main.py
+¦-- gym_churn_analysis.ipunb
+¦-- churn_model.pkl
 ```
 
 ## Используемые технологии
